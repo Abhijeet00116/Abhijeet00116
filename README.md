@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Padhi</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Big Data ,Machine Learning ,Data Analytics**
+- 🌱 I’m currently learning **NodeJs,MongoDB,FastAPI**
 
 - 📫 How to reach me **abhipadhi001@gmail.com**
 

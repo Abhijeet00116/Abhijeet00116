@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Padhi</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJs,MongoDB,FastAPI**
+- 🌱 I’m currently learning **NodeJs,MongoDB**
 
 - 📫 How to reach me **abhipadhi001@gmail.com**
 

@@ -28,8 +28,8 @@
 
 <div align="center">  
 
-#### Containers & Orchestration  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/> 
+#### Containerization  
+<img src="https://skillicons.dev/icons?i=docker"/> 
 </div>
 
 </td><td valign="top" width="20%">

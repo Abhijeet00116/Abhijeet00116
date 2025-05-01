@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 - 🌱 Always learning more about **AWS**, **Kubernetes**, and **CI/CD Pipelines**.
-- ✨ Believe in Continuous Improvement and Collaboration.
+- ✨ Believe in Continuous Improvement and Continuous Update.
 
 ---
 

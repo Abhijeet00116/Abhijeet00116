@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=ubuntu" /> 
 </div>
 </td></tr>
-</table>
+
 
 </td><td valign="top" width="20%">
 <div align="center"> 

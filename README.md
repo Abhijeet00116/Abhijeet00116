@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Abhijeet</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;alt="Typing SVG" />
 </p>
 
 

@@ -54,6 +54,13 @@
 </td><td valign="top" width="20%">
 <div align="center"> 
 
+#### Monitoring
+<img src="https://skillicons.dev/icons?i=prometheus" />
+<img src="https://skillicons.dev/icons?i=grafana" /> 
+</div>
+</td></tr>
+</table>
+
 #### Operating Systems  
 <img src="https://skillicons.dev/icons?i=redhat" />
 <img src="https://skillicons.dev/icons?i=ubuntu" /> 

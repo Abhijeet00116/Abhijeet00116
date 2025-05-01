@@ -61,6 +61,9 @@
 </td></tr>
 </table>
 
+</td><td valign="top" width="20%">
+<div align="center"> 
+  
 #### Monitoring
 <img src="https://skillicons.dev/icons?i=prometheus" />
 <img src="https://skillicons.dev/icons?i=grafana" /> 

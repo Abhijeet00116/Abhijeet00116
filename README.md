@@ -21,7 +21,7 @@
 
 #### Infrastructure as Code
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible" /> 
+<img src="https://skillicons.dev/icons?i=terraform" /> 
 </div>
 
 </td><td valign="top" width="20%">
@@ -38,8 +38,8 @@
 
 #### CI/CD & Automation  
 
-<img src="https://skillicons.dev/icons?i=jenkins" /> 
-        <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=jenkins,ansible" /> 
+
 </div>
 
 </td><td valign="top" width="20%">

@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=redhat" />
 <img src="https://skillicons.dev/icons?i=ubuntu" /> 
 </div>
-</td></tr>
+
 
 
 </td><td valign="top" width="20%">

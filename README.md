@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=prometheus" />
 <img src="https://skillicons.dev/icons?i=grafana" /> 
 </div>
-</tr>
+</td></tr>
 </table>
 ---
 ## 🔥 GitHub Stats

@@ -38,8 +38,8 @@
       <b>Operating Systems</b><br/>
       <img src="https://skillicons.dev/icons?i=redhat,ubuntu" />
     </td>
-    <td align="center" valign="top" width="23%">
-      <b>Monitoring</b><br/>
+    <td align="center" valign="top" width="20%">
+      <b>Monitoring Tools</b><br/>
       <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
     </td>
   </tr>

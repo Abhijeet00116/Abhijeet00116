@@ -1,83 +1,55 @@
-<h1 align="center">Hi there 👋 I'm Abhijeet</h1>
+<h1 align="center">Hi there 👋 I'm Abhijeet00116</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer" alt="Typing SVG" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🚀 DevOps Engineer passionate about **AWS**, **Kubernetes**, and **CI/CD Pipelines**.
+- 🌱 Continuously learning and improving.
+- ✨ Believe in Continuous Improvement and Continuous Delivery.
 
 ---
 
-## 👩‍💻 About Me
-- 🌱 Always learning more about **AWS**, **Kubernetes**, and **CI/CD Pipelines**.
-- ✨ Believe in Continuous Improvement and Continuous Update.
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ My Tech Stack
-
-<table><tr>
-  
-<td valign="top" width="20%">
-<div align="center">  
-
-#### Infrastructure as Code
-
-<img src="https://skillicons.dev/icons?i=terraform" /> 
-</div>
-
-</td><td valign="top" width="20%">
-
-<div align="center">  
-
-#### Containerization  
-<img src="https://skillicons.dev/icons?i=docker"/> 
-</div>
-
-</td><td valign="top" width="20%">
-
-<div align="center"> 
-
-#### CI/CD & Automation  
-
-<img src="https://skillicons.dev/icons?i=jenkins,ansible" /> 
-
-</div>
-
-</td><td valign="top" width="20%">
-
-<div align="center">  
-
-#### Cloud  
-
-<img src="https://skillicons.dev/icons?i=aws" /> 
-</div>
-
-</td><td valign="top" width="20%">
-<div align="center"> 
-
-#### Operating Systems  
-<img src="https://skillicons.dev/icons?i=redhat" />
-<img src="https://skillicons.dev/icons?i=ubuntu" /> 
-</div>
-
-
-
-</td><td valign="top" width="20%">
-<div align="center"> 
-  
-#### Monitoring
-
-<img src="https://skillicons.dev/icons?i=prometheus" />
-<img src="https://skillicons.dev/icons?i=grafana" /> 
-</div>
-</td></tr>
+<table>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <b>Infrastructure as Code</b><br/>
+      <img src="https://skillicons.dev/icons?i=terraform" />
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Containerization</b><br/>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>CI/CD & Automation</b><br/>
+      <img src="https://skillicons.dev/icons?i=jenkins,ansible" />
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Cloud</b><br/>
+      <img src="https://skillicons.dev/icons?i=aws" />
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Operating Systems</b><br/>
+      <img src="https://skillicons.dev/icons?i=redhat,ubuntu" />
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Monitoring</b><br/>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+    </td>
+  </tr>
 </table>
----
-## 🔥 GitHub Stats
 
-## 📈 GitHub Stats:
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijeet00116&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hager706&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsj8ct&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
----
